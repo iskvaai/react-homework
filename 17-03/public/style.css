@@ -1,0 +1,468 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+
+body{
+    margin: 0;
+    padding:0 ;
+    box-sizing: border-box;
+}
+
+.container{
+    width: 1440px;
+    margin: 0 auto;
+}
+.mariella-photo{
+    width: 122px;
+    height: 63px;
+    /*padding: 33px 1205px 24px 64px;*/
+    margin: 0 600px  0 50px;
+}
+header{
+    height: 120px;
+    display: flex;
+    align-items: center;
+
+}
+ header ul {
+    height: 30px;
+    font-family: 'Cormorant Garamond';
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    /*text-align: right;*/
+}
+
+ header li{
+    display: inline;
+
+    margin-right: 40px;
+    color: rgba(176, 142, 173, 1);
+    list-style-type: none;
+    padding-bottom: 40px;
+    padding-top: 50px;
+}
+.box1{
+    position: relative;
+    height: 458px;
+    background: #C9ADC6;
+}
+
+.box2{
+    height: 359px;
+    background: #D6BBD3;
+}
+
+.nalojenie1{
+    position: absolute;
+    top: 77px;
+    left: 227px;
+}
+
+.nalojenie2{
+    position: absolute;
+    top: 42%;
+    left: 66%;
+}
+
+.spring{
+    position: absolute;
+    left: 70%;
+    top: 69%;
+}
+.new, .buy{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 30px;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    margin-bottom: 14px;
+    margin-top: 0;
+
+}
+
+.buy{
+    margin-top: 22px;
+    border: none ;
+    background: #B08EAD;
+    border-bottom: solid ;
+}
+
+.cushion, .collection{
+    font-family: 'Cormorant Garamond';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 45px;
+    line-height: 55px;
+    color: #FFFFFF;
+    margin: 0;
+}
+
+.container2{
+    height: 306px;
+    text-align: center;
+
+}
+
+.designer{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 30px;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    color: #B99BB6;
+    margin-top: 75px;
+}
+
+.California{
+    font-family: Cormorant Garamond;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 26px;
+    line-height: 38px;
+    color: #5F4D5D;
+    margin: 0;
+}
+
+.learn_more{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 11px;
+    line-height: 15px;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    color: #B99BB6;
+    border: 1px solid #B99BB6;
+    border-radius: 25px;
+    height: 45px;
+    width: 141px;
+    background-color: white;
+    margin-top: 17px;
+    margin-bottom: 50px;
+}
+
+.foto1{
+    margin-right: 37px;
+    margin-bottom: 0;
+}
+
+.foto2{
+    margin-right: 37px;
+}
+
+.box4{
+    display: flex;
+    position: relative;
+}
+.first, .second, .third{
+    width: 368px;
+    height: 113px;
+    background: #CEB3CB;
+}
+
+.first{
+    position: absolute;
+    top: 240px;
+    left: 131px;
+}
+
+.second{
+    position: absolute;
+    top: 240px;
+    left: 536px;
+}
+
+.third{
+    position: absolute;
+    top: 240px;
+    left: 941px;
+}
+
+.me{
+    font-family: 'Cormorant Garamond';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    line-height: 30px;
+    color: #FFFFFF;
+    margin: 0;
+    padding: 23px 0 6px 23px;
+}
+
+.more{
+    font-family: 'Cormorant Garamond';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17px;
+    line-height: 30px;
+    color: #FFFFFF;
+    margin: 0;
+    padding-left: 23px;
+}
+
+.container3{
+    display: flex;
+    margin-top: 415px;
+    margin-left: 114px;
+}
+
+.box5{
+
+    padding-left: 41px;
+    padding-top: 74px;
+}
+
+.begin{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 30px;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    color: #B99BB6;
+    padding-bottom: 10px;
+    margin: 0;
+}
+
+.credibly, .dramatically{
+    font-family: Cormorant Garamond;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 30px;
+    color: #5F4D5D;
+
+}
+hr{
+    width: 1215px;
+}
+.container4{
+    display: flex;
+
+    margin-top: 5px;
+    margin-left: 4px;
+}
+.box7_photo{
+    margin: 25px 134px;
+}
+.box6_photo{
+    margin: 7px 80px;
+}
+.box9{
+    padding: 65px 139px;
+    width: 486px;
+    height: 250px;
+}
+.box8{
+    width: 607px;
+    height: 457px;
+    padding-left: 0;
+    padding-top: 106px;
+}
+.carrer{
+    font-family: Roboto;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 1.5px;
+    text-align: left;
+    color: rgba(185, 155, 182, 1);
+    text-transform: uppercase;
+
+}
+.collab, .object, .and{
+    font-family: Cormorant Garamond;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.learn_more2{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 11px;
+    line-height: 15px;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    color: #B99BB6;
+    border: 1px solid #B99BB6;
+    border-radius: 25px;
+    height: 45px;
+    width: 141px;
+    background-color: white;
+    margin-top: 17px;
+    margin-bottom: 50px;
+}
+
+.container5{
+    display: flex;
+
+}
+.box10{
+    margin: 16px -70px;
+    width: 608px;
+    height: 417px;
+}
+.box10_photo{
+    padding: 9px 25px;
+}
+.products{
+    font-family: Roboto;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 1.5px;
+    text-align: left;
+    color: rgba(185, 155, 182, 1);
+    text-transform: uppercase;
+
+}
+.seamlessly, .innovate, .energi{
+
+    font-family: Cormorant Garamond;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 30px;
+    color: #5F4D5D;
+
+}
+
+.container6{
+    align-items: center;
+    display: flex;
+    gap: 26px;
+    margin-top: 91px;
+    margin-left: 112px;
+}
+.container7{
+    align-items: center;
+    display: flex;
+    gap: 26px;
+    /*margin-bottom: 76px;*/
+    margin-left: 112px;
+}
+.center_text{
+    text-align: center;
+    font-family: Cormorant Garamond;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #5F4D5D;
+    padding-top: 9px;
+    margin: -5px 0px -17px;
+
+}
+.center_text2{
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 18px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: rgba(176, 176, 176, 1);
+    padding-bottom: 76px;
+}
+footer{
+    position: relative;
+    height: 372px;
+    left: 0%;
+    right: 0%;
+    top: 0;
+    background: #C9ADC6;
+
+
+}
+.footer_block{
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0;
+    height: 235px;
+    background: #D6BBD3;
+    border-radius: 0;
+
+}
+.icons_footer{
+    padding-top: 46px;
+    gap: 240px;
+    display: flex;
+    padding-left: 20%;
+
+}
+
+.icons1{
+    /*padding-left: 317px;*/
+}
+.footer_text{
+    font-family: Cormorant Garamond;
+    font-size: 21px;
+    font-style: normal;
+    font-weight: 400;
+
+    /* text-align: center;*/
+    color: rgba(255, 255, 255, 1);
+
+}
+.footer_text1{
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+
+    /* text-align: center;*/
+    color: rgba(255, 255, 255, 1);
+
+}
+.m1{
+    /*color: rgba(255, 255, 255, 1);*/
+
+}
+
+.f1{
+    margin : 3px 0 15px -17px;
+}
+/*.mr1{
+    margin: 14px 44px 24px 31%;
+}*/
+footer ul {
+
+    font-family: 'Cormorant Garamond';
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    /*text-align: right;*/
+}
+
+footer li{
+    display: inline;
+    margin-right: 40px;
+    /*color: rgba(176, 142, 173, 1);*/
+    list-style-type: none;
+}
+.blog-footer{
+    display: flex;
+    color: white;
+    align-items: center;
+    justify-content: center;
+    margin: 27px 0px 0px 0px;
+}
